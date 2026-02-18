@@ -1,0 +1,36 @@
+
+{
+  "id": "com.aurawalls.ai.app",
+  "name": "AuraWalls AI",
+  "short_name": "AuraWalls",
+  "description": "Premium AI-generated wallpapers powered by Gemini.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#0a0a0a",
+  "orientation": "portrait",
+  "categories": ["personalization", "utilities"],
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659898.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3659/3659898.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "https://images.unsplash.com/photo-1618005182384-a83a8bd57fbe?auto=format&fit=crop&q=80&w=1000",
+      "sizes": "1000x1777",
+      "type": "image/jpeg",
+      "form_factor": "narrow"
+    }
+  ]
+}
